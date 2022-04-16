@@ -8,8 +8,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
 
-  <div id="app" class="shadow-md rounded-md w-9/12 h-4/6 place-content-center">
-    <img src="./assets/pfp.jpg" alt="Profile Picture" class="shadow-md rounded-full w-20 h-20">
+  <div id="app" class="shadow-md rounded-md grid grid-cols-1 gap-4 place-content-center">
+    <img src="./assets/pfp.jpg" alt="Profile Picture" class="shadow-md rounded-full w-20 h-20 place-content-center m-auto">
     <br><h3 class="text-2xl underline">Khairunnisa' Asyiqin binti Akandi</h3>
     <div id="info">
       <p>D.O.B: 14/01/2000</p><br>
