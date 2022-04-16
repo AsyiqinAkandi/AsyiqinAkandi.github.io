@@ -15,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <p>School: School of Information and Technology</p>
       <p>Institution: Politeknik Brunei</p>
       <p>Course: Diploma in Web Development</p>
+      <p>Contact me @ 20FTT1461</p>
     </div>
   </div>
 
