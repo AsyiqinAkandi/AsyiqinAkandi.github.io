@@ -17,8 +17,6 @@ import HelloWorld from './components/HelloWorld.vue'
       <p>Institution: Politeknik Brunei</p>
       <p>Course: Diploma in Web Development</p>
 
-      <a href="asyiqin.akandi@gmail.com">Gmail</a>
-      
     </div>
   </div>
 
