@@ -12,11 +12,9 @@ import HelloWorld from './components/HelloWorld.vue'
     <img src="./assets/pfp.jpg" alt="Profile Picture" class="shadow-md rounded-full w-20 h-20 place-content-center m-auto">
     <h3 class="text-2xl underline">Khairunnisa' Asyiqin binti Akandi</h3>
     <div id="info">
-      <p>D.O.B: 14/01/2000</p>
       <p>School: School of Information and Technology</p>
       <p>Institution: Politeknik Brunei</p>
       <p>Course: Diploma in Web Development</p>
-
     </div>
   </div>
 
