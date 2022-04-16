@@ -5,6 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+
   <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
 
   <div id="app" class="shadow-md rounded-md w-9/12 h-4/6 place-content-center">
@@ -17,6 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <p>Course: Diploma in Web Development</p>
     </div>
   </div>
+
 </template>
 
 <style>
